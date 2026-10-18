@@ -1,0 +1,50 @@
+{
+    "name":  "translate-lite",
+    "logo":  "🌍",
+    "exe":  "TranslateLite.exe",
+    "desc":  "Free, open-source offline translator for Windows — text and documents via local models, markdown-safe. 100 MB portable, no cloud, MIT.",
+    "topics":  [
+                   "translation",
+                   "offline-translator",
+                   "nmt",
+                   "argos-translate",
+                   "ai-tools",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "document-translation",
+                   "language-packs",
+                   "markdown",
+                   "glossary",
+                   "privacy",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Offline engine** — neural translation packs run locally, no API keys and no text leaving the machine",
+                     "✅ **Document mode** — txt, Markdown and docx files translated with formatting and code blocks preserved",
+                     "✅ **Batch queue** — a folder of files translated into one target language unattended",
+                     "✅ **Glossary list** — names and terminology pinned so they survive translation untouched",
+                     "✅ **Two-pane workspace** — source and target side by side with sentence-level highlight matching",
+                     "✅ **Pack manager** — languages installed and removed from the settings shelf with disk sizes shown",
+                     "✅ **100 MB self-contained exe** — runtime bundled, language packs download separately, offline after that, MIT"
+                 ],
+    "compare":  [
+                    "| Feature | **translate-lite** | Google Translate | DeepL | Argos CLI |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Free web | Paid tiers | Free, OSS |",
+                    "| Open source | **Yes** | No | No | Yes |",
+                    "| Text stays local | **Yes** | No | No | Yes",
+                    "| Markdown and code preservation | **Yes** | Partial | Partial | No |",
+                    "| Glossary enforcement | **Yes** | No | Paid | No |",
+                    "| Portable, no install | **Yes, 100 MB** | Browser | App or web | Python env"
+                ],
+    "faqQ":  "offline translator for Windows that keeps documents private?",
+    "faqA":  "Online translators see every contract and manuscript pasted into them, and the offline tooling is a Python package with rough output. translate-lite runs NMT packs locally, preserves Markdown and code, and enforces a glossary. It is a 100 MB portable exe, MIT, no account, and works with the network cable unplugged.",
+    "s1":  "Dark panes (#121418, teal #14B8A6): source document left with sentence 14 highlighted, translation right with matching highlight, language pair chip reading DE to EN.",
+    "s2":  "Batch queue: 12 files with per-file status and word counts, target language dropdown, glossary badge on, progress bar reading 7 of 12 done.",
+    "s3":  "Pack manager: fifteen language tiles with download sizes, three marked installed, glossary editor panel with six pinned terms, disk usage chip."
+}
